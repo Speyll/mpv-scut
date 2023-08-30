@@ -1,4 +1,4 @@
-# mpv-scut: Seamless Video Segmentation and Non-Reencoded Merging with mpv
+# mpv-scut: Seamless Video Non-Reencoded Segmentation Merging with mpv
 
 Explore the power of `mpv-scut`, a script tailored for [mpv](https://mpv.io/) enthusiasts. Effortlessly define segments within your videos and seamlessly merge them into a polished, singular file – all without the need for reencoding, thanks to the combined strength of mpv and FFmpeg.
 
