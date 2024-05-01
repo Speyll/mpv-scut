@@ -16,8 +16,8 @@ Explore the power of `mpv-scut`, a script tailored for [mpv](https://mpv.io/) en
 3. Open a video using `mpv`.
 4. Use the following key bindings to control the script:
    - Press `c` to set the starting point of a segment.
-   - Press `v` to set the ending point of the current segment.
-   - Press `m` to process and merge segments.
+   - Press `x` to set the ending point of the current segment.
+   - Press `z` to process and merge segments.
 5. The merged video, without reencoding, will be saved as `merged_video.mp4` in the original video's directory.
 
 **Please Note:** This script relies on the `osd_message` function in mpv, so ensure OSD messages are enabled in your mpv settings.
