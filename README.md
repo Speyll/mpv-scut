@@ -15,11 +15,12 @@ Explore the power of `mpv-scut`, a script tailored for [mpv](https://mpv.io/) en
 2. Download the `mpv-scut.lua` script and save it in your `scripts` directory. You can locate the `scripts` directory by running `mpv --list-scripts` or make it yourself.
 3. Open a video using `mpv`.
 4. Use the following key bindings to control the script:
-   - Press `c` to set the starting point of a segment.
-   - Press `x` to set the ending point of the current segment.
-   - Press `s` to save the segments to a text file.
-   - Press `z` to process and merge segments.
-   - Press `r` to retry processing using saved segment points from txt file.
+   - Press `Shift+I` to set the starting point of a segment.
+   - Press `Shift+O` to set the ending point of the current segment.
+   - Press `Shift+S` to save the segments to a text file.
+   - Press `Shift+L` to load saved segment points from txt file.
+   - Press `Shift+P` to process and merge segments.
+   - Press `Shift+C` to clear all segments.
 
 5. The merged video, without reencoding, will be saved as `merged_video.mp4` in the original video's directory.
 
